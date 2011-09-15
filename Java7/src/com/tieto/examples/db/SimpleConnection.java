@@ -6,7 +6,7 @@ import java.sql.Statement;
 
 public class SimpleConnection {
 
-	public static String DB_URL = "jdbc:derby://localhost:1527/test;create=true";
+	public static String DB_URL = "jdbc:derby://localhost:1527/db-derby;create=true";
     
 
     // jdbc Connection

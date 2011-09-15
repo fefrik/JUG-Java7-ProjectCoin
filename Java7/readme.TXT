@@ -2,11 +2,11 @@ Structure of examples
 ----------------------------
 src        - source codes of examples
 resources  - sql scripts for create and populate tables (db should be prepared)
-jUnitTests - jUnitTests of syntax changes
-test       - Derby database
+test       - jUnitTests of syntax changes
+db-derby   - Derby database
 
 
-System requirements & Tools
+Tools
 ----------------------------
 JDK7 :)
 Eclise Indigo 3.8M1
